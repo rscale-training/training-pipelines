@@ -1,6 +1,7 @@
 #!/bin/bash
 
-set -ex
+set -e
+set -x
 
 cd app-source
 

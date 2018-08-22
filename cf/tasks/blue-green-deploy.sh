@@ -1,6 +1,7 @@
 #!/bin/bash
 
-set -ex
+set -e
+set -x
 
 version=`cat version/version`
 
